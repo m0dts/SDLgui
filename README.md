@@ -1,4 +1,6 @@
 Example of some Touchscreen GUI parts of radio interface using SDL on the raspberry pi and C++.
+This was based around the Langstone SDR interface.
+
 Uses SDL2.0.12
 The build script will help you compile it.
 
