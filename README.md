@@ -8,4 +8,8 @@ The build script will help you compile it.
 
 It's the first time i've really used C++ so apologies!
 
-The frequency selector part works nice, never finished any of the other parts unfortunately.
+The frequency selector part works nice, touch the upper or lower half of the number to tune.
+
+Buttons just click 'in' or 'out'.
+
+Sliders slide as expected and change colour
