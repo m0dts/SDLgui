@@ -1,0 +1,7 @@
+# Using SDL2.0.12
+# built with:  ./configure --disable-video-rpi --enable-video-kmsdrm --enable-video-x11 --disable-video-opengl
+#
+#
+#
+
+g++ -o sdlgui sdlgui.cpp `sdl2-config --cflags --libs` -lSDL2_ttf
